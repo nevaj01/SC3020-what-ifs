@@ -1,0 +1,4 @@
+customtkinter
+tkinter
+psycopg2
+matplotlib
